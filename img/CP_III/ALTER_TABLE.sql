@@ -1,0 +1,6 @@
+ALTER TABLE morador
+ADD rg VARCHAR(9) NOT NULL;
+
+ALTER TABLE morador
+ADD cpf VARCHAR(11) NOT NULL;
+
