@@ -2,7 +2,7 @@
 Projeto desenvolvido para gerenciar condomínios, facilitando o convívio entre os condôminos e condomínio. App, onde o condômino acessa as informações do condomínio onde reside, esse acesso é via internet, tem como funções gerar boleto, reservar o salão de festa, churrasqueira e etc. O foco pricipal é solucionar problemas de comunicação dentro de seus respectivos condomínios.
 <img src="/img/logo.png"/>
 
-#### Link do nosso site: https://bityli.com/bMjQdqZD
+#### Link do nosso site: https://bd-condominio.vercel.app/
 
 <br />
 <br />
